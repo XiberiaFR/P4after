@@ -90,6 +90,16 @@ a:hover {
     right: 0;
 }
 
+.bloc4__text--big
+{
+    font-size: x-large;
+}
+
+.row.row-no-gutters.social.space
+{
+    padding-bottom: 20px;
+}
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
